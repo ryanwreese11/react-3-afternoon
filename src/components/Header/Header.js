@@ -17,7 +17,7 @@ export default class Header extends Component {
           {/* Displays the mountain icon in the header */}
           <div className="Header__company-info">
             <CompanyIcon id="Header__company-icon" />
-            <span>Social Mountain</span>
+            <span>Dev Mountain</span>
           </div>
 
           {/* Displays the search bar */}
